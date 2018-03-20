@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">564868031957-of9oqpbipaq2r02khp6jdifufqf061cr.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://retrofitwithfirebase-65580.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">564868031957</string>
+    <string name="google_api_key" translatable="false">AIzaSyDadmwOugRv7PLx4Jer25h4zTzH0i1iPOs</string>
+    <string name="google_app_id" translatable="false">1:564868031957:android:fe2654312df47507</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDadmwOugRv7PLx4Jer25h4zTzH0i1iPOs</string>
+    <string name="google_storage_bucket" translatable="false">retrofitwithfirebase-65580.appspot.com</string>
+    <string name="project_id" translatable="false">retrofitwithfirebase-65580</string>
+</resources>

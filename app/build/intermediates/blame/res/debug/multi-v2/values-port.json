@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/sanaebadi/passport/programming/and_dev/workspace/and_workspace/Retrofit/RetrofitWithFirebase/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/sanaebadi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/e32fdeef0a996ebb4a6dd6e3386f77cd/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
