@@ -19,7 +19,7 @@ Firebase Cloud Messaging (FCM) is a cross-platform messaging solution that lets 
 In order to establish connection with Firebase, you need to create a project for your own app in the Firebase console. You must set up your project in such a way that every time a user installs it, their device is registered in Firebase with a unique token. Although this may seem complex, the setup is actually simple
 
 
-# Step1
+# Steps
 1- first create your account in Firebase (https://firebase.google.com/)
 
 2- after that create new project in firebase site
