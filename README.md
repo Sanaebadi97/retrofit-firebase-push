@@ -1,5 +1,5 @@
 # retrofit-firebase-push
-use Retrofit2 and Firebase Push Notification
+Use Retrofit2 and Firebase Push Notification
 
 # Demo
 
@@ -11,15 +11,18 @@ Retrofit library is created by Square Open Source, it’s a REST client for andr
 
 for use (http://square.github.io/retrofit/)
 
-I use my Api Rest ... but I get The idea from this Api (https://simplifiedcoding.net/demos/marvel/).
+I use my Api Rest ... but I get The idea from this Api (https://simplifiedcoding.net/demos/marvel/).(it is sample)
 
 # use Firebase Cloud Messaging
+
+
 Firebase Cloud Messaging (FCM) is a cross-platform messaging solution that lets you reliably deliver messages at no cost.
 
 In order to establish connection with Firebase, you need to create a project for your own app in the Firebase console. You must set up your project in such a way that every time a user installs it, their device is registered in Firebase with a unique token. Although this may seem complex, the setup is actually simple
 
 
 # Steps
+
 1- first create your account in Firebase (https://firebase.google.com/)
 
 2- after that create new project in firebase site
