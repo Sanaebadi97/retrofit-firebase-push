@@ -27,7 +27,7 @@ In order to establish connection with Firebase, you need to create a project for
 
 2- after that create new project in firebase site
 
-3- and Selection " Add Firebase to your Android app"
+3- and Selection ***Add Firebase to your Android app***
 
 4- fill 3 Frame 
 a) "Android Package name" with your application package name in android studio
