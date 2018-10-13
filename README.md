@@ -32,7 +32,7 @@ In order to establish connection with Firebase, you need to create a project for
 4- fill 3 Frame 
 a) "Android Package name" with your application package name in android studio
 b) "App nickname" with name you want 
-c) "Debug signing certificate SHA-1 (optional)" with this (https://stackoverflow.com/questions/27609442/how-to-get-the-sha-1-fingerprint-certificate-in-android-studio-for-debug-mode)
+c) "Debug signing certificate SHA-1 (optional)" [with this](https://stackoverflow.com/questions/27609442/how-to-get-the-sha-1-fingerprint-certificate-in-android-studio-for-debug-mode)
 
 5- next step download "google=ervice.json" and add that to your project. and add this plugin and classpath ,... too (https://stackoverflow.com/questions/32072568/how-to-add-google-services-json-in-android)
 
