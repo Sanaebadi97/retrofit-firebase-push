@@ -40,6 +40,6 @@ In order to establish connection with Firebase, you need to create a project for
 
 6- and use the code in classe and update your manifest file too.
 
-7- The last step , go to your account in firebase and select the "Notifications" and "New message" and send message to your users...
+7- The last step , go to your account in firebase and select the ***"Notifications"*** and ***"New message"*** and send message to your users...
 
 good luck؛)
