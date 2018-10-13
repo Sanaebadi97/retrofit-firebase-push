@@ -11,7 +11,7 @@ Retrofit library is created by Square Open Source, it’s a REST client for andr
 
 [for use](http://square.github.io/retrofit/)
 
-I use my Api Rest ... but I get The idea from this Api (https://simplifiedcoding.net/demos/marvel/).(it is sample)
+I use my Api Rest ... but I get The idea from this [Api](https://simplifiedcoding.net/demos/marvel/) ***it is sample***
 
 # use Firebase Cloud Messaging
 
