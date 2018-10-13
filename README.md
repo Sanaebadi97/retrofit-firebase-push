@@ -23,7 +23,7 @@ In order to establish connection with Firebase, you need to create a project for
 
 # Steps
 
-1- first create your account in Firebase (https://firebase.google.com/)
+1- first create your account in [Firebase](https://firebase.google.com/)
 
 2- after that create new project in firebase site
 
