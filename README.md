@@ -9,7 +9,7 @@ Use Retrofit2 and Firebase Push Notification
 # use Retrofit
 Retrofit library is created by Square Open Source, it’s a REST client for android and java. By the use of this library, it is easy to request web services of REST with GET, POST, PUT and much more.
 
-for use (http://square.github.io/retrofit/)
+[for use](http://square.github.io/retrofit/)
 
 I use my Api Rest ... but I get The idea from this Api (https://simplifiedcoding.net/demos/marvel/).(it is sample)
 
