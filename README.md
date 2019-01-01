@@ -31,7 +31,7 @@ In order to establish connection with Firebase, you need to create a project for
 
 4- fill 3 Frame 
 
-***a) "Android Package name" with your application package name in android studio"***
+***a) Android Package name" with your application package name in android studio***
 
 
 ***b) "App nickname" with name you want"***
