@@ -1,7 +1,7 @@
 # retrofit-firebase-push
 ***Use Retrofit2 and Firebase Push Notification***
 
-# Demo
+
 
 ![20180320_145312](https://user-images.githubusercontent.com/26750131/37657701-1bdb279a-2c22-11e8-95ed-479f43936a41.gif)
 
