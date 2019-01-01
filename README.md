@@ -34,7 +34,7 @@ In order to establish connection with Firebase, you need to create a project for
 ***a) Android Package name" with your application package name in android studio***
 
 
-***b) "App nickname" with name you want"***
+***b) App nickname" with name you want***
 
 ***c) "Debug signing certificate SHA-1 (optional)" [with this](https://stackoverflow.com/questions/27609442/how-to-get-the-sha-1-fingerprint-certificate-in-android-studio-for-debug-mode)***
 
